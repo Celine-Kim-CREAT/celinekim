@@ -19,7 +19,7 @@ I am the founder of AUREUS GLOBAL SCHOOL and a graduate student in English Educa
 My experience includes English education, broadcasting, research administration, educational consulting, and international cultural communication.
 
 ## Website
-https://Celine-Kim-CREAT.github.io/celinekim
+http://www.aureusglobalschool.com/
 
 ## Contact
 For collaboration, educational projects, or research inquiries, please contact me through GitHub or professional networks.
