@@ -25,3 +25,5 @@ http://www.aureusglobalschool.com/
 
 ## Contact
 For collaboration, educational projects, or research inquiries, please contact me through GitHub or professional networks.
+
+celinelifestudio@naver.com
