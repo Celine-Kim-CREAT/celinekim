@@ -1,7 +1,25 @@
 # Celine Kim
 
-Founder · Educator · Global Communicator
+Founder · Educator · Researcher · Global Communicator
 
-This repository contains my personal profile website.
+Welcome to my personal academic and professional website.
 
-Website: https://Celine-Kim-CREAT.github.io/CELINEKIM/
+## About
+I am the founder of AUREUS GLOBAL SCHOOL and a graduate student in English Education at Korea University. My work focuses on education, global communication, digital content, and Human-AI collaboration.
+
+## Research Interests
+- Human-AI Collaboration
+- Digital Humanities
+- NLP & Large Language Models
+- English Education
+- Academic Content Development
+- Global Communication
+
+## Professional Background
+My experience includes English education, broadcasting, research administration, educational consulting, and international cultural communication.
+
+## Website
+https://Celine-Kim-CREAT.github.io/celinekim
+
+## Contact
+For collaboration, educational projects, or research inquiries, please contact me through GitHub or professional networks.
