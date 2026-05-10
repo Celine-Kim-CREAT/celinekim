@@ -14,6 +14,8 @@ I am the founder of AUREUS GLOBAL SCHOOL and a graduate student in English Educa
 - English Education
 - Academic Content Development
 - Global Communication
+- Python
+- Editing
 
 ## Professional Background
 My experience includes English education, broadcasting, research administration, educational consulting, and international cultural communication.
