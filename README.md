@@ -16,4 +16,4 @@ M.A. Student in English Education at Korea University
 - Human-AI Collaborative Curation Framework
 
 ## Contact
-- Email: your-email@korea.ac.kr
+- Email: celinelifestudio@naver.com
