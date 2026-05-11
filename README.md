@@ -14,7 +14,7 @@ Founder of **AUREUS GLOBAL SCHOOL**
 Interested in **Human-AI Collaboration, AI-assisted Education, NLP/LLM-based Communication, Digital Humanities, and Global Education**.
 
 🌐 Website: https://www.aureusglobalschool.com  
-💻 GitHub: https://github.com/Celine-Kim-CREAT  
+💻 GitHub: https:/celine-kim-creat.github.io/celinekim
 
 ---
 
