@@ -1,5 +1,13 @@
 # CELINE KIM
 
+I am the founder ofAUREUS GLOBAL SCHOOL, a Korea-based education brand focused on English education, academic content development, and global communication.
+My professional background combines education, media communication, research administration, public engagement, and international exchange experiences.
+Since 2016, I have continuously expanded my expertise through education, mentoring, broadcasting, cultural presentations, and global academic activities.
+Selected Experience
+
+
+Founder · AUREUS GLOBAL SCHOOL
+
 **Founder · Educator · Global Communicator · Human-AI Research Aspirant**
 
 Founder of **AUREUS GLOBAL SCHOOL**  
@@ -134,3 +142,8 @@ AI-assisted Education
 NLP & LLM-based Communication
 Digital Humanities
 Global Education
+
+## Contact
+For educational collaboration, media inquiries, research partnerships, or global projects, please contact me through email or professional networks.
+
+celinelifestudio@naver.com
