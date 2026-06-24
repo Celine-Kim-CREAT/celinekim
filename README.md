@@ -146,4 +146,4 @@ Global Education
 ## Contact
 For educational collaboration, media inquiries, research partnerships, or global projects, please contact me through email or professional networks.
 
-celinelifestudio@naver.com
+celine@aureuglobalschool.com
